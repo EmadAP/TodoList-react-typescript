@@ -1,0 +1,13 @@
+{
+  "header": "Todo List",
+  "_header.comment": "this string is for header",
+
+  "pivots": {
+    "taskTab": "Tasks",
+    "taskFormTab": "Task Form",
+    "completedTaskTab": "Completed"
+  },
+  "deleteConfirm": "Are you sure,you want to delete the task ?",
+  "addTaskBtn": "Add Task",
+  "updateTaskBtn": "Update Task"
+}
